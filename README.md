@@ -1,2 +1,2 @@
 # -Spotify_Hashtag
-Curso Full Stack com a Hashtag terinamentos.
+Curso Full Stack com a Hashtag treinamentos.
